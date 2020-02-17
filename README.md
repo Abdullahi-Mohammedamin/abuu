@@ -3,7 +3,7 @@
 
 ## Description
 {This is website which translates your gender,year of birth and your birthday into Akan names which was used by ghanian people. }
-## Setup/Installation Requirements
+## Setup procedure;
 * This is a great place
 * to list setup instructions
 * in a simple
