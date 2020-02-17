@@ -1,10 +1,8 @@
-# abuu
-My week 2 project
 # {AKAN NAME ASSIGNING.}
-#### {Brief description of application}, {2020}
+#### {My Week two project}, {2020}
 
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This is website which translates your gender,year of birth and your birthday into Akan names which was used by ghanian people. }
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
@@ -13,5 +11,5 @@ My week 2 project
 * format 
 ### License
 *{MIT}*
-Copyright (c) {} **{ABUDEE  ARBAC BILII}**
+Copyright (c) {2020} **{ABUDEE  ARBAC BILII}**
   
