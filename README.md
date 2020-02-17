@@ -7,7 +7,7 @@
 * Search for github username;Abdullahi-Mohammedamin
 * Click on the clone or download button.
 * Open the terminal.
-* paste the link of github
+* paste the link of github.
 * ENTER.
 ### License
 *{MIT}*
