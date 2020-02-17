@@ -1,5 +1,5 @@
 # {AKAN NAME ASSIGNING.}
-#### {My Week two project:}, {2020}
+#### {My Week two project}, {2020}
 
 ## Description
 {This is website which translates your gender,year of birth and your birthday into Akan names which was used by ghanian people. }
