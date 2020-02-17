@@ -8,7 +8,7 @@
 * Click on the clone or download button.
 * Open the terminal.
 * paste the link of github
-* ENTER
+* ENTER.
 ### License
 *{MIT}*
 Copyright (c) {2020} **{ABUDEE  ARBAC BILII}**
