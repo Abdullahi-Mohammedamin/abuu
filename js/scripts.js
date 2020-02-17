@@ -90,11 +90,5 @@ name ="Ama"
 }
 
 alert(
-'The month is ' + MM + '\n'+
-'The century is ' + CC+ '\n'+
-'The year is ' + YY+ '\n'+
-'The day is ' + DD + '\n'+
-'The gender is ' + gender + '\n'+
-'The day of the week born is ' + dayOfTheWeek + '\n'+
-'Your Akan name is ' + name )
+'Welcome,Your Akan name is ' + name )
 }
